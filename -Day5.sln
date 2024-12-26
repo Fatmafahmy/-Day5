@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "-Day5\Demo.csproj", "{951C1751-24C0-437F-981B-A7DFDB051CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assiment", "Assiment\Assiment.csproj", "{59E25E13-26B0-4C35-A585-9F9A9540E423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951C1751-24C0-437F-981B-A7DFDB051CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951C1751-24C0-437F-981B-A7DFDB051CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951C1751-24C0-437F-981B-A7DFDB051CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951C1751-24C0-437F-981B-A7DFDB051CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E25E13-26B0-4C35-A585-9F9A9540E423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E25E13-26B0-4C35-A585-9F9A9540E423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E25E13-26B0-4C35-A585-9F9A9540E423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E25E13-26B0-4C35-A585-9F9A9540E423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
